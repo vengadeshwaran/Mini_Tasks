@@ -1,0 +1,38 @@
+.flag-layout
+{
+    padding: 1rem;
+    background-color:rgb(252, 252, 252);
+    font-family: 'Nunito', sans-serif;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: gray;
+    margin: 20px 0px;
+    height: 50%;
+
+}
+body{
+      font-family: 'Nunito', sans-serif;
+      background: red;
+      display: flex;
+      
+      background-image: linear-gradient(
+          to right top,
+          #051937,
+          #33275d,
+          #6f2d78,
+          #b12681,
+          #f01a78
+      );
+}
+
+.flag{
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 00.5rem;
+    height: 250px;
+    width: 100%;
+}
+
+
+
+
+
